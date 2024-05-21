@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123209206383",
+    "project_id": "chatbot-testing-e1ea9",
+    "storage_bucket": "chatbot-testing-e1ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123209206383:android:d5731709a41212994a9b9a",
+        "android_client_info": {
+          "package_name": "com.example.chatboat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNEdZsqOdYGauWIm3F3xZlYZFakLfhNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
