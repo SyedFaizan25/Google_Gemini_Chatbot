@@ -44,7 +44,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  ChatUser myself = ChatUser(id: '1', firstName: 'Faizan', lastName: 'Muslim');
+  ChatUser myself = ChatUser(id: '1', firstName: 'Syed', lastName: 'Faizan');
   ChatUser bot = ChatUser(id: '2', firstName: 'Google', lastName: 'Gemini');
 
   List<ChatMessage> allMessage = [];
