@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
     allMessage.insert(0, m);
     setState(() {});
 
-    const url='https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyBQwJgOy3pi0YnL6WhEBcMoz9puKp1w40g';
+    const url='https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=userKey';
     final header= {
       'Content-Type': 'application/json'
     };
